@@ -1,1 +1,4 @@
-print(“Hello jatinder :D”)
+<<<<<< development
+print("Hello jatinder :D")
+print("Hello world :D")
+>>>>>> main
